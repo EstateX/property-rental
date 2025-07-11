@@ -16,7 +16,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "express-fileupload": "^1.5.1",
-    "config-log": "^1.0.3",
+    "rc-logger": "^3.4.1",
     "framer-motion": "^10.16.4",
     "git": "^0.1.5",
     "jsonwebtoken": "^9.0.2",
